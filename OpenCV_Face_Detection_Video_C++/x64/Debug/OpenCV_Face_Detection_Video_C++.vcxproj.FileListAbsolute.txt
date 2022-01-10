@@ -1,0 +1,2 @@
+C:\Users\Acer\Desktop\OpenCV Github\OpenCV_Face_Detection_Video_C++\x64\Debug\OpenCV_Face_Detection_Video_C++.exe
+C:\Users\Acer\Desktop\OpenCV Github\OpenCV_Face_Detection_Video_C++\x64\Debug\OpenCV_Face_Detection_Video_C++.pdb

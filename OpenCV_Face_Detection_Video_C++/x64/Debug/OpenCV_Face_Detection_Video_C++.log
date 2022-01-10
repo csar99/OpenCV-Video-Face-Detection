@@ -1,0 +1,3 @@
+﻿  video_detect_face.cpp
+C:\Users\Acer\Desktop\OpenCV Github\OpenCV_Face_Detection_Video_C++\video_detect_face.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  OpenCV_Face_Detection_Video_C++.vcxproj -> C:\Users\Acer\Desktop\OpenCV Github\OpenCV_Face_Detection_Video_C++\x64\Debug\OpenCV_Face_Detection_Video_C++.exe
